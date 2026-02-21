@@ -1,13 +1,13 @@
-# 🎲 Pig Game
+# 🎲 Dice Game
 
-Bu loyiha — 2 o‘yinchi uchun mo‘ljallangan interaktiv **Pig Dice Game**. 
+Bu loyiha — 2 o‘yinchi uchun mo‘ljallangan interaktiv **Dice Game**. 
 O‘yin HTML, CSS va JavaScript yordamida ishlab chiqilgan bo‘lib, foydalanuvchilar navbatma-navbat kubik tashlab ochko yig‘ishadi.
 
 ## 🚀 Texnologiyalar
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla JS)  
+- JavaScript 
 - Font Awesome  
 
 ## 🎮 O‘yin Qoidalari
@@ -28,4 +28,4 @@ O‘yin HTML, CSS va JavaScript yordamida ishlab chiqilgan bo‘lib, foydalanuvc
 
 ## 👁️ Demo
 
-👉 https://pic-game-tengsizdev.netlify.app/
+👉 https://dice-game-tengsizdev.netlify.app/
