@@ -28,7 +28,4 @@ O‘yin HTML, CSS va JavaScript yordamida ishlab chiqilgan bo‘lib, foydalanuvc
 
 ## 👁️ Demo
 
-👉 https://pic-game-tengsizdev.netlify.app/ 
-
-- Telegram: https://t.me/TengsizDev  
-- Email: tengsizdev@gmail.com
+👉 https://pic-game-tengsizdev.netlify.app/
